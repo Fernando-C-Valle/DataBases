@@ -65,4 +65,8 @@ Examples:
 db.updateDescription(id, 'New Description')
 db.insert('Command','Description')
 db.delete(id)
+real	0m0,253s
+user	0m0,217s
+sys	0m0,027s
 """
+
